@@ -1,0 +1,6 @@
+openai-whisper
+transformers
+sentencepiece
+pyqt5
+sounddevice
+numpy
